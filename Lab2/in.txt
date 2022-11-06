@@ -1,0 +1,8 @@
+zahar;1.5;50
+faina;4.7;97
+malai;5.3;34
+lapte;8.0;48
+orez;5.2;45
+linte;4.2;10
+porumb;3.7;28
+pesmet;9.2;35

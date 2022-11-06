@@ -1,0 +1,11 @@
+1;Plansul lui Nietzsche;Irvin Yalom;1992
+2;De veghe in lanul de secara;J.D. Salinger;1951
+3;Mitul lui Sisif;Albert Camus;1942
+4;Ulyse;James Joyce;1972
+5;Magicianul;John Fowles;1984
+6;America;Franz Kafka;1925
+7;Eseu despre orbire;Jose Saramango;1993
+8;Magia ordinii;Marie Kondo;2013
+9;Strada dughenelor intunecate;Patrick Modiano;1990
+10;Nimeni alaturi de mine;Nadine Gordimer;2005
+11;In cautarea oii fantastice;Haruki Murakami;2002

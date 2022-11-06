@@ -1,0 +1,12 @@
+Denumire	Pret	Cantitate
+zahar		1.5		50.0
+faina		4.7		97.0
+malai		5.3		34.0
+lapte		8.0		48.0
+orez		5.2		45.0
+linte		4.2		10.0
+porumb		3.7		28.0
+pesmet		9.2		35.0
+
+Produs cu pret minim: zahar		1.5		50.0
+Produs cu pret maxim: pesmet		9.2		35.0

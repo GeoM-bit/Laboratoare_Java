@@ -1,0 +1,10 @@
+Ana Radu;director general;2022-04-09;6000
+Ion Giulea;sef contabil;2021-01-29;3200
+Cosmin Bunea;specialist hr;2020-08-30;2800
+Ioana Dalea;software engineer;2021-12-15;4000
+Gina Savu;automation tester;2022-07-04;2500
+Petra Cornea;sef departament flutter;2022-04-22;3700
+Vlad Danila;director operational;2022-06-18;5500
+Rares Florea;sef departament .net;2018-05-05;5500
+Paul Duliu;software enginner;2018-02-11;2300
+Codrin Mina;java trainee;2022-07-14;1500

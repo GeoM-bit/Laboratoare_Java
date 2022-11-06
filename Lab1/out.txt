@@ -1,0 +1,4 @@
+Suma: 27
+Media artimetica: 4.0
+Minimul: 2
+Maximul: 8
